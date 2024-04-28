@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [social platform Rythmap](https://github.com/Rythmap/Rythmap-client/)
 
-- 🌱 I’m currently learning **Java** and **Kotlin (going to switch to it from Java)**
+- 🌱 I’m currently learning **Kotlin (going to switch to it from Java)** and **Ktor**
 
 - 📫 How to reach me: **Telegram @mvnh13**, **Discord @13mvnh**
 
