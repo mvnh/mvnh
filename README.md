@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">16 y.o. future Android application developer</h3>
+<h3 align="center">16 y.o. future Android developer</h3>
 
 - 🔭 I’m currently working on [social platform Rythmap](https://github.com/Rythmap/Rythmap-client/)
 
