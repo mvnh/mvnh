@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
 <h3 align="center">16 y.o. future Android developer</h3>
 
-- 🔭 I’m currently working on [social platform Rythmap](https://github.com/Rythmap/Rythmap-client/)
+- 🔭 I’m currently working on [social platform Rythmap](https://github.com/Rythmap/)
 
 - 🌱 I’m currently learning **Kotlin (going to switch to it from Java)** and **Ktor**
 
