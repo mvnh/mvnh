@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">16 y.o. future Android developer</h3>
+# Hi there, I'm Danila 👋
+Beginner Android developer. Currently improving my **Kotlin** knowledge
 
-- 🔭 I’m currently working on [social platform Rythmap](https://github.com/Rythmap/)
+## More about me 🖋️
+- **16** y.o.
+- first programming language was **Python**
+- studied at **Samsung Innovation Campus**
+- main laptop is **Huawei Matebook 14 AMD**, main phone is **Google Pixel 6a**
 
-- 🌱 I’m currently learning **Kotlin (going to switch to it from Java)** and **Ktor**
+## My tech stack 👨‍💻
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 📫 How to reach me: **Telegram @mvnh13**, **Discord @13mvnh**
+Also **worked with**:
+- Android Views (XML)
+- OkHttp & Retrofit, Ktor Server
+- MVVM (ViewModel)
+- RecyclerView
+- Gson, kotlinx.serialization
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## Current major project ⚒️
+[Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and geolocation 📍
+
+## Stats 📈
+![mvnh's stats](https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&title_color=CABEFF&icon_color=CABEFF&text_color=FFDDB3)
