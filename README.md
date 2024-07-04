@@ -1,5 +1,5 @@
 # Hi there, I'm Danila 👋
-Beginner Android developer. **At this moment** improving my **Kotlin** knowledge and learning **Jetpack Compose**
+**Beginner** Android developer. **At this moment** improving my **Kotlin** knowledge and learning **Jetpack Compose**
 
 ## More about me 🖋️
 - **16** y.o.
