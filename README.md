@@ -1,5 +1,5 @@
 # Hi there, I'm Danila 👋
-Beginner Android developer. Currently improving my **Kotlin** knowledge
+Beginner Android developer
 
 ## More about me 🖋️
 - **16** y.o.
@@ -19,6 +19,9 @@ Also **worked with**:
 
 ## Current major project ⚒️
 [Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and geolocation 📍
+
+## At this moment ⏲️
+Improving my **Kotlin** knowledge and learning **Jetpack Compose**
 
 ## Stats 📈
 ![mvnh's stats](https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&title_color=CABEFF&icon_color=CABEFF&text_color=FFDDB3)
