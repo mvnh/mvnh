@@ -1,30 +1,24 @@
-# Hi there, I'm Danila 👋
-**Beginner** Android developer. **At this moment** improving my **Kotlin** knowledge and learning **Jetpack Compose**
+# ℹ️ About me
+```kotlin
+class Mvnh {
+    val name: String = "Danila Mityashin"
+    var age: Int = 16
+    val about = "beginner Android developer"
 
-## More about me 🖋️
-- **16** y.o.
-- first programming language was **Python**
-- studied at **Samsung Innovation Campus**
-- main laptop is **Huawei Matebook 14 AMD**, main phone is **Google Pixel 6a**
+    var techStack: List<String> = listOf("Java", "Kotlin", "MongoDB", "Android Views", "Ktor Server")
 
-## My tech stack 👨‍💻
-<div align="left">
+    var learning: List<String> = listOf(
+        "Kotlin",
+        "Compose",
+        "KMP"
+    )
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"/>
+    var projects: Map<String, String> = mapOf(
+        "github.com/Rythmap" to "A social platform for sharing music preferences and location"
+    )
 
-</div>
-
-Also **worked with**:
-- Android Views (XML)
-- OkHttp & Retrofit, Ktor Server
-- MVVM (ViewModel)
-- RecyclerView
-- Gson, kotlinx.serialization
-
-## Current major project ⚒️
-[Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and geolocation 📍
-
-## Stats 📈
-![mvnh's stats](https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&title_color=CABEFF&icon_color=CABEFF&text_color=FFDDB3)
+    val contacts: Map<String, String> = mapOf(
+        "Telegram" to "mvnh13"
+    )
+}
+```
