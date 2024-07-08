@@ -6,7 +6,6 @@ class Mvnh {
     val about = "beginner Android developer"
 
     var techStack: List<String> = listOf("Java", "Kotlin", "MongoDB", "Android Views", "Ktor Server")
-
     var learning: List<String> = listOf(
         "Kotlin",
         "Compose",
