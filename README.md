@@ -3,7 +3,7 @@
 class Mvnh {
     val name: String = "Danila Mityashin"
     var age: Int = 16
-    val about = "beginner Android developer"
+    val about: String = "beginner Android developer"
 
     var techStack: List<String> = listOf("Java", "Kotlin", "MongoDB", "Android Views", "Ktor Server")
     var learning: List<String> = listOf("Kotlin", "Compose", "KMP")
