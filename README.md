@@ -1,27 +1,26 @@
-```kotlin
-class Mvnh {
-    val name: String = "Danila Mityashin"
-    var age: Int = 16
-    val about: String = "beginner Android developer"
+## Hi there 👋, I'm Danila
+16 y.o. beginner Android developer. I'm currently improving my Kotlin knowledge and learning Jetpack Compose.
 
-    var techStack: List<String> = listOf(
-        "Java",
-        "Kotlin",
-        "MongoDB",
-        "Android Views",
-        "Ktor Server"
-    )
-    var learning: List<String> = listOf(
-        "Kotlin",
-        "Compose"
-    )
+## I code with
+<p>
+    <img height=40 alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="12" />
+    <img height=40 alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    <img width="12" />
+    <img height=40 alt="xml (android views)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-plain.svg" />
+    <img width="12" />
+    <img height=40 alt="jetpack compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+    <img width="12" />
+    <img height=40 alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img width="12" />
+    <img height=40 alt="ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />
+</p>
 
-    var projects: Map<String, String> = mapOf(
-        "github.com/Rythmap" to "social platform for sharing music prefs and location"
-    )
+## Projects
+[Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and location 📍
 
-    val contacts: Map<String, String> = mapOf(
-        "Telegram" to "mvnh13"
-    )
-}
-```
+## Stats
+<div align="center">
+    <img alt="main stats" src="https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&count_private=true&hide_border=true">
+    <img alt="streak stats" src="https://streak-stats.demolab.com?user=mvnh&theme=transparent&hide_border=true">
+</div>
