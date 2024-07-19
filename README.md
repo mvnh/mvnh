@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Danila
-16 y.o. beginner Android developer. I'm currently improving my Kotlin knowledge and learning Jetpack Compose.
+## Hi there 👋
+I'm Danila (aka mvnh), 16 y.o. beginner Android developer. I'm currently improving my Kotlin knowledge and learning Jetpack Compose.
 
 ## I code with
 <p>
