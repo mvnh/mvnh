@@ -4,11 +4,20 @@ class Mvnh {
     var age: Int = 16
     val about: String = "beginner Android developer"
 
-    var techStack: List<String> = listOf("Java", "Kotlin", "MongoDB", "Android Views", "Ktor Server")
-    var learning: List<String> = listOf("Kotlin", "Compose", "KMP")
+    var techStack: List<String> = listOf(
+        "Java",
+        "Kotlin",
+        "MongoDB",
+        "Android Views",
+        "Ktor Server"
+    )
+    var learning: List<String> = listOf(
+        "Kotlin",
+        "Compose"
+    )
 
     var projects: Map<String, String> = mapOf(
-        "github.com/Rythmap" to "A social platform for sharing music preferences and location"
+        "github.com/Rythmap" to "social platform for sharing music prefs and location"
     )
 
     val contacts: Map<String, String> = mapOf(
