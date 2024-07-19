@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Danila (aka mvnh), 16 y.o. beginner Android developer. I'm currently improving my Kotlin knowledge and learning Jetpack Compose.
 
-## I code with
+## Tech stack
 <p>
     <img height=40 alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="12" />
