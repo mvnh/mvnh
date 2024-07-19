@@ -21,6 +21,6 @@
 
 ## Stats
 <div align="center">
-    <img alt="main stats" src="https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&count_private=true&hide_border=true">
-    <img alt="streak stats" src="https://streak-stats.demolab.com?user=mvnh&theme=transparent&hide_border=true">
+    <img height="150" alt="main stats" src="https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&count_private=true&hide_border=true">
+    <img height="150" alt="streak stats" src="https://streak-stats.demolab.com?user=mvnh&theme=transparent&hide_border=true">
 </div>
