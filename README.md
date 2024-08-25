@@ -18,7 +18,6 @@ I'm also known as mvnh, a 16 y.o. beginner Android developer. I'm currently impr
 
 ### 🛠️ Projects
 - [Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and location 📍
-- Future project: [Wordcon](https://github.com/Wordcon) - a word game on a variety of topics with online and multiplayer 🔤
 
 ### ℹ️ Stats
 <div align="center">
