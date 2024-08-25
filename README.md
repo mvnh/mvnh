@@ -18,9 +18,3 @@ I'm also known as mvnh, a 16 y.o. beginner Android developer. I'm currently impr
 
 ### 🛠️ Projects
 - [Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and location 📍
-
-### ℹ️ Stats
-<div align="center">
-    <img height="150" alt="main stats" src="https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&count_private=true&hide_border=true">
-    <img height="150" alt="streak stats" src="https://streak-stats.demolab.com?user=mvnh&theme=transparent&hide_border=true">
-</div>
