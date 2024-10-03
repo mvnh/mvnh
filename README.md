@@ -9,7 +9,5 @@
     <img width="12" />
     <img height=40 alt="jetpack compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
     <img width="12" />
-    <img height=40 alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img width="12" />
     <img height=40 alt="ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />
 </p>
