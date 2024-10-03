@@ -1,7 +1,4 @@
-### Hi there, I'm Danila 👋
-I'm also known as mvnh, a 16 y.o. beginner Android developer. I'm currently improving my Kotlin knowledge and learning Jetpack Compose.
-
-### 🧑‍💻 Tech stack
+Improving my Kotlin knowledge and learning Jetpack Compose.
 <p>
     <img height=40 alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img width="12" />
@@ -15,12 +12,3 @@ I'm also known as mvnh, a 16 y.o. beginner Android developer. I'm currently impr
     <img width="12" />
     <img height=40 alt="ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />
 </p>
-
-### 🛠️ Projects
-- [Rythmap](https://github.com/Rythmap) - a social platform for sharing music preferences and location 📍
-
-### ℹ️ Stats
-<div align="center">
-    <img height="150" alt="main stats" src="https://github-readme-stats.vercel.app/api?username=mvnh&show_icons=true&theme=transparent&count_private=true&hide_border=true">
-    <img height="150" alt="streak stats" src="https://streak-stats.demolab.com?user=mvnh&theme=transparent&hide_border=true">
-</div>
