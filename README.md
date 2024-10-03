@@ -1,4 +1,4 @@
-### Improving my Kotlin knowledge and learning Jetpack Compose.
+#### Improving my Kotlin knowledge and learning Jetpack Compose
 
 <p>
     <img height=40 alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
